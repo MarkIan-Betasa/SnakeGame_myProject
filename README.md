@@ -1,1 +1,1 @@
-# SnakeGame_myProject
+# myProjects
